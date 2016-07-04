@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.smarps.smarps.EditNoteActivity" >
+
+    <item
+        android:id="@+id/action_save"
+        android:title="@string/save_label"
+        app:showAsAction="always|withText">
+    </item>
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="hdpi"
+    format="7"
+    timestamp="1467674864123556000" >
+
+    <task
+        name="javac"
+        duration="3075" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="530" />
+    <task
+        name="verifier"
+        duration="80" />
+
+    <artifact
+        location="/Users/nequit/Dropbox/projects/apps/Android/Smarps/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1467674864123556000" >
+        <artifact
+            location="/Users/nequit/Dropbox/projects/apps/Android/Smarps/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
